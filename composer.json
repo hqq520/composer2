@@ -1,0 +1,11 @@
+{
+    "name": "hqq520/composer2",
+    "description": "this is a composer2",
+    "authors": [
+        {
+            "name": "hqq520",
+            "email": "460592800@qq.com"
+        }
+    ],
+    "require": {}
+}
